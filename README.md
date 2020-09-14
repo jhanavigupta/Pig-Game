@@ -10,3 +10,7 @@ GAME RULES:
 - The first player to reach 150 points on GLOBAL score wins the game
 
 
+link to the game:
+ https://jhanavigupta.github.io/Pig-Game/
+
+
